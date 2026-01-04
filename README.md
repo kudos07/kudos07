@@ -12,7 +12,6 @@
     vCenter=true&
     width=440&
     lines=Machine+Learning+Engineer;AI+Engineer"
-    alt="Typing SVG" />
 </p>
 
 <p align="center">
