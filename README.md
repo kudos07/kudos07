@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=440&lines=Machine+Learning+Engineer;AI+Engineer" alt="Typing SVG" />
 </p>
 <p align="center">
-I build end-to-end machine learning systems — from data pipelines and modeling to evaluation and deployment.
-Focused on production-grade ML, not toy notebooks.
+I recently graduated with an M.S. in Data Science from Stony Brook University. I build production ML systems end to end: data pipelines, model training, evaluation, and deployment, with a focus on reliability and performance. I’ve worked across classical ML, deep learning, and LLM-enabled applications like RAG and structured extraction.
 </p>
 
 <p align="center">
