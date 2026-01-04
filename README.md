@@ -27,36 +27,36 @@ I graduated with an M.S. in Data Science from Stony Brook University. I build pr
 ---
 
 ## 🔧 Tech Stack
-<table align="center">
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python · SQL</td>
-  </tr>
-  <tr>
-    <td><b>ML</b></td>
-    <td>PyTorch · TensorFlow · scikit-learn · XGBoost</td>
-  </tr>
-  <tr>
-    <td><b>LLMs</b></td>
-    <td>LangChain · RAG · (FAISS / Pinecone if real)</td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td>Pandas · NumPy · Postgres/MySQL · MongoDB</td>
-  </tr>
-  <tr>
-    <td><b>Data Eng</b></td>
-    <td>Airflow · Spark · Kafka (only if used)</td>
-  </tr>
-  <tr>
-    <td><b>MLOps</b></td>
-    <td>MLflow · W&amp;B · Docker · CI/CD (GitHub Actions)</td>
-  </tr>
-  <tr>
-    <td><b>Cloud / Infra</b></td>
-    <td>AWS · GCP · Kubernetes · Terraform</td>
-  </tr>
-</table>
+## 🧰 Toolbox
+
+<details>
+  <summary><b>ML / DL</b></summary>
+
+  - PyTorch, TensorFlow, scikit-learn, XGBoost  
+  - Training, evaluation, feature engineering, experiments
+</details>
+
+<details>
+  <summary><b>LLMs / Speech / Multimodal</b></summary>
+
+  - Whisper (speech-to-text), Transformers, HuggingFace  
+  - RAG workflows, prompt + eval pipelines  
+</details>
+
+<details>
+  <summary><b>Serving / Backend</b></summary>
+
+  - FastAPI, Flask  
+  - API deployment, inference pipelines
+</details>
+
+<details>
+  <summary><b>Data / Infra</b></summary>
+
+  - Pandas, NumPy, MongoDB, MySQL  
+  - Docker, AWS, GCP, Git/GitHub
+</details>
+
 
 ---
 
