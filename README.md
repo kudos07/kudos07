@@ -15,21 +15,48 @@ I graduated with an M.S. in Data Science from Stony Brook University. I build pr
 
 ---
 
-## 🧠 What I Do
-- Design and train ML models with strong evaluation discipline
-- Build data pipelines and ML workflows that scale
-- Deploy models using APIs and cloud infrastructure
-- Contribute to open-source ML and data tooling
+## What I Do
+- Build production AI/ML workflows from data ingestion to training, evaluation, and serving
+
+- Deliver ML models (tree-based + deep learning) and LLM features (RAG, vector search, reranking)
+
+- Deploy inference services via FastAPI with containerized cloud infrastructure
+
+- Contribute to open-source ML/AI libraries and internal tooling
 
 ---
 
 ## 🔧 Tech Stack
-**Languages:** Python, SQL  
-**ML / DS:** PyTorch, TensorFlow, scikit-learn, XGBoost  
-**Backend:** FastAPI, Flask  
-**Data:** Pandas, NumPy, MongoDB, MySQL  
-**Infra / Cloud:** AWS, GCP, Docker  
-**Tools:** Git, GitHub, Linux
+<table align="center">
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python · SQL</td>
+  </tr>
+  <tr>
+    <td><b>ML</b></td>
+    <td>PyTorch · TensorFlow · scikit-learn · XGBoost</td>
+  </tr>
+  <tr>
+    <td><b>LLMs</b></td>
+    <td>LangChain · RAG · (FAISS / Pinecone if real)</td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>Pandas · NumPy · Postgres/MySQL · MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Data Eng</b></td>
+    <td>Airflow · Spark · Kafka (only if used)</td>
+  </tr>
+  <tr>
+    <td><b>MLOps</b></td>
+    <td>MLflow · W&amp;B · Docker · CI/CD (GitHub Actions)</td>
+  </tr>
+  <tr>
+    <td><b>Cloud / Infra</b></td>
+    <td>AWS · GCP · Kubernetes · Terraform</td>
+  </tr>
+</table>
 
 ---
 
