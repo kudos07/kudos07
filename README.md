@@ -11,6 +11,7 @@ I graduated with an M.S. in Data Science from Stony Brook University. I build pr
 <a href="https://saransh-surana.vercel.app"><b>Portfolio</b></a> •
 <a href="https://www.linkedin.com/in/saransh-surana"><b>LinkedIn</b></a> •
 <a href="https://medium.com/@saranshsurana"><b>Medium</b></a>
+<a href="mailto:ssurana818@gmail.com"><b>Email</b></a>
 </p>
 
 ---
@@ -57,19 +58,3 @@ I graduated with an M.S. in Data Science from Stony Brook University. I build pr
   - Docker, AWS, GCP, Git/GitHub
 </details>
 
-
----
-
-## 🌍 Open Source Contributions
-- **Statsmodels** — PR: <link>  
-  Improved statistical utility function used in copula modeling
-
-- **Skrub** — PR: <link>  
-  Added selector utilities and documentation improvements
-
-
----
-
-## 📬 Contact
-- Email: ssurana818@gmail.com
-- LinkedIn: https://www.linkedin.com/in/saransh-surana
