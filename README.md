@@ -4,6 +4,7 @@
 </p>
 <p align="center">
 I graduated with an M.S. in Data Science from Stony Brook University. I build production ML systems end to end: data pipelines, model training, evaluation, and deployment, with a focus on reliability and performance. I’ve worked across classical ML, deep learning, and LLM-enabled applications like RAG and structured extraction.
+Email : ssurana818@gmail.com
 </p>
 
 <p align="center">
@@ -11,7 +12,6 @@ I graduated with an M.S. in Data Science from Stony Brook University. I build pr
 <a href="https://saransh-surana.vercel.app"><b>Portfolio</b></a> •
 <a href="https://www.linkedin.com/in/saransh-surana"><b>LinkedIn</b></a> •
 <a href="https://medium.com/@saranshsurana"><b>Medium</b></a> •
-<a href="mailto:ssurana818@gmail.com"><b>Email</b></a> 
 </p>
 
 ---
