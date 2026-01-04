@@ -10,8 +10,8 @@ I graduated with an M.S. in Data Science from Stony Brook University. I build pr
 <a href="https://drive.google.com/file/d/1GRzjUDabP-ypDtYSgIhd36mFtufcTxDJ/view?usp=drive_link"><b>Resume</b></a> •
 <a href="https://saransh-surana.vercel.app"><b>Portfolio</b></a> •
 <a href="https://www.linkedin.com/in/saransh-surana"><b>LinkedIn</b></a> •
-<a href="https://medium.com/@saranshsurana"><b>Medium</b></a>
-<a href="mailto:ssurana818@gmail.com"><b>Email</b></a>
+<a href="https://medium.com/@saranshsurana"><b>Medium</b></a> •
+<a href="mailto:ssurana818@gmail.com"><b>Email</b></a> 
 </p>
 
 ---
