@@ -27,7 +27,7 @@ Email : ssurana818@gmail.com
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 <details>
   <summary><b>ML / DL</b></summary>
