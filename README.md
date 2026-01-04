@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saransh Surana 👋</h1>
+<h1 align="center">Hi, I'm Saransh Surana</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=440&lines=Machine+Learning+Engineer;AI+Engineer" alt="Typing SVG" />
 </p>
