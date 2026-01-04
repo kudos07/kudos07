@@ -1,5 +1,16 @@
 <h1 align="center">Hi, I'm Saransh Surana 👋</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=22&
+    pause=1200&
+    center=true&
+    vCenter=true&
+    width=440&
+    lines=Machine+Learning+Engineer;AI+Engineer"
+    alt="Typing SVG" />
+</p>
 
 <p align="center">
 I build end-to-end machine learning systems — from data pipelines and modeling to evaluation and deployment.
@@ -40,20 +51,9 @@ Focused on production-grade ML, not toy notebooks.
 - **Skrub** — PR: <link>  
   Added selector utilities and documentation improvements
 
-- **Outlines** — PR: <link>  
-  Improved test coverage for steerable generation
-
-(Only list PRs you’d confidently explain line-by-line.)
-
----
-
-## ✍️ Writing
-- I write about ML, statistics, and system design on Medium  
-- Topics: model evaluation, ML pipelines, interview prep  
-👉 <Medium link>
 
 ---
 
 ## 📬 Contact
-- Email: your@email.com
-- LinkedIn: <link>
+- Email: ssurana818@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saransh-surana
