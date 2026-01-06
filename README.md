@@ -4,6 +4,8 @@
 </p>
 <p align="center">
 I graduated with an M.S. in Data Science from Stony Brook University. I build production ML systems end to end: data pipelines, model training, evaluation, and deployment, with a focus on reliability and performance. I’ve worked across classical ML, deep learning, and LLM-enabled applications like RAG and structured extraction.
+</p>
+<p align="center">
 Email : ssurana818@gmail.com
 </p>
 
