@@ -41,7 +41,7 @@ Email : ssurana818@gmail.com
 <details>
   <summary><b>LLMs / Speech / Multimodal</b></summary>
 
-  - Whisper (speech-to-text), Transformers, HuggingFace  
+  - Whisper (speech-to-text), Transformers, HuggingFace , LangChain
   - RAG workflows, prompt + eval pipelines  
 </details>
 
