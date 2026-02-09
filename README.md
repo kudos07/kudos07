@@ -1,4 +1,4 @@
-<h1 align="center">Hey — I'm Saransh 👋</h1>
+<h1 align="center">Hey - I'm Saransh 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=560&lines=AI+Engineer;ML+Engineer;ML+Infra+Enthusiast" alt="Typing SVG" />
@@ -17,7 +17,7 @@ I build polished, production-minded AI/ML demos and infra — fast prototypes th
 
 ---
 
-## Snapshot — What I love building
+## Snapshot - What I love building
 - Multimodal demo: lightweight audio/image/text → app pipeline with low-latency inference and a friendly demo UI.
 - Retrieval-augmented app: vector search + caching + reranking for accurate, fast semantic search or QA.
 - Production ML infra templates: reproducible training loops, experiment tracking, CI for models, and monitoring dashboards.
@@ -27,17 +27,13 @@ These are concise, linkable repos I publish with clean READMEs and runnable exam
 ---
 
 ## Tech I enjoy
-- Languages: Python, TypeScript, SQL, Bash, C/C++
-- ML & Deep Learning: PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM
-- LLMs & NLP: Hugging Face Transformers, LangChain, SentenceTransformers, OpenAI, FAISS, Gemini, RAG patterns
-- Multimodal & Speech: Whisper, torchaudio, torchvision, OpenCV, Diffusers / Stable Diffusion
-- Data & Storage: PostgreSQL, MySQL, MongoDB, Redis
-- Data Engineering: Pandas, NumPy, Dask, Spark, Kafka, Airflow
-- Serving & Inferencing: FastAPI, Flask
-- Infra & DevOps: Docker, Docker Compose, Kubernetes, GCP, Azure, GitHub Actions
+- Languages: Python, TypeScript, SQL
+- Core ML: PyTorch, TensorFlow, scikit-learn, XGBoost
+- LLMs & Multimodal: Hugging Face Transformers, LangChain, RAG patterns, Whisper, Diffusers
+- Data & Infra: PostgreSQL, MongoDB, Redis, Spark, Airflow
+- Serving & Infra: FastAPI, Docker, Kubernetes, GCP, Azure
 - MLOps & Observability: MLflow, Weights & Biases, Prometheus, Grafana
-- Tooling & Workflow: Git, GitHub, Poetry, Conda, VS Code, CI/CD, reproducible experiments
-- Practices: unit tests for models, data-contract validation, model monitoring, feature stores, cost/latency optimization
+- Tooling: Git, GitHub, CI/CD, reproducible experiments
 
 ---
 
