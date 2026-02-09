@@ -27,7 +27,17 @@ These are concise, linkable repos I publish with clean READMEs and runnable exam
 ---
 
 ## Tech I enjoy
-Python · PyTorch · Hugging Face · Transformers · FastAPI · Docker · Kubernetes · Redis · PostgreSQL · MLflow · Airflow · AWS · GCP · Prometheus · Grafana
+- Languages: Python, TypeScript, SQL, Bash, C/C++
+- ML & Deep Learning: PyTorch, TensorFlow, JAX, scikit-learn, XGBoost, LightGBM
+- LLMs & NLP: Hugging Face Transformers, LangChain, SentenceTransformers, OpenAI, FAISS, RAG patterns
+- Multimodal & Speech: Whisper, torchaudio, torchvision, OpenCV, Diffusers / Stable Diffusion
+- Data & Storage: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Pinecone, Qdrant, Milvus
+- Data Engineering: Pandas, NumPy, Dask, Spark, Kafka, Airflow, Prefect
+- Serving & Inferencing: FastAPI, Flask, gRPC, Uvicorn, ONNX, TorchScript, Triton
+- Infra & DevOps: Docker, Docker Compose, Kubernetes, Helm, Terraform, AWS, GCP, Azure, GitHub Actions
+- MLOps & Observability: MLflow, Weights & Biases, Prometheus, Grafana, Sentry, Great Expectations
+- Tooling & Workflow: Git, GitHub, Poetry, Conda, Make, VS Code, CI/CD, reproducible experiments
+- Practices: unit tests for models, data-contract validation, model monitoring, feature stores, cost/latency optimization
 
 ---
 
@@ -44,4 +54,13 @@ Python · PyTorch · Hugging Face · Transformers · FastAPI · Docker · Kubern
 - Short consults for productionizing models or architecture reviews
 - Collabs on demos, tooling, and reproducibility
 
+---
+
+## Want this personalized?
+I can:
+- Add 2–3 concrete project bullets with repository links you want highlighted.
+- Remove public contact details or replace with a privacy-friendly contact card.
+- Save this README to your repo (already opened here) — say "save it".
+
+(If you'd like me to auto-insert specific project links and your preferred contact info, paste them and I'll update the file.)
 
