@@ -44,13 +44,4 @@ Python · PyTorch · Hugging Face · Transformers · FastAPI · Docker · Kubern
 - Short consults for productionizing models or architecture reviews
 - Collabs on demos, tooling, and reproducibility
 
----
-
-## Want this personalized?
-I can:
-- Add 2–3 concrete project bullets with repository links you want highlighted.
-- Remove public contact details or replace with a privacy-friendly contact card.
-- Save this README to your repo (already opened here) — say "save it".
-
-(If you'd like me to auto-insert specific project links and your preferred contact info, paste them and I'll update the file.)
 
