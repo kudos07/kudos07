@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I build polished, production-minded AI/ML demos and infra — fast prototypes that scale, reproducible pipelines, and readable code that teams actually use. Expect clean demos, reproducible experiments, and practical infra patterns.
+I build polished, production-minded AI/ML demos and infra - fast prototypes that scale, reproducible pipelines, and readable code that teams actually use. Expect clean demos, reproducible experiments, and practical infra patterns.
 </p>
 
 <p align="center">
@@ -47,16 +47,6 @@ These are concise, linkable repos I publish with clean READMEs and runnable exam
 
 ## Open to
 - Full-time roles in AI/ML engineering, ML infra, or senior prototyping
-- Short consults for productionizing models or architecture reviews
-- Collabs on demos, tooling, and reproducibility
+- Collabs on demos, tooling, projects, and reproducibility
 
----
-
-## Want this personalized?
-I can:
-- Add 2–3 concrete project bullets with repository links you want highlighted.
-- Remove public contact details or replace with a privacy-friendly contact card.
-- Save this README to your repo (already opened here) — say "save it".
-
-(If you'd like me to auto-insert specific project links and your preferred contact info, paste them and I'll update the file.)
 
