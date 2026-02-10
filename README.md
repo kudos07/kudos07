@@ -41,7 +41,7 @@ These are concise, linkable repos I publish with clean READMEs and runnable exam
 - Start small: prototype under an hour, then scale the winner.
 - Tests for data contracts and model I/O before serving.
 - Lightweight APIs and clear examples so non-ML engineers can integrate quickly.
-- Focus on latency, cost, and reproducibility — not just score-chasing.
+- Focus on latency, cost, and reproducibility - not just score-chasing.
 
 ---
 
