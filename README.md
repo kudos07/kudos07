@@ -11,7 +11,7 @@ I build polished, production-minded AI/ML demos and infra - fast prototypes that
 <p align="center">
 <a href="https://saransh-surana.vercel.app"><b>Portfolio</b></a> •
 <a href="https://www.linkedin.com/in/saransh-surana"><b>LinkedIn</b></a> •
-<a href="https://github.com/saransh-surana"><b>GitHub</b></a> •
+<a href="https://github.com/kudos07"><b>GitHub</b></a> •
 <a href="mailto:ssurana818@gmail.com"><b>Email</b></a>
 </p>
 
