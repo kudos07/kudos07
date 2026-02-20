@@ -29,7 +29,7 @@ These are concise, linkable repos I publish with clean READMEs and runnable exam
 ## Tech I enjoy
 - Languages: Python, TypeScript, SQL
 - Core ML: PyTorch, TensorFlow, scikit-learn, XGBoost
-- LLMs & Multimodal: Hugging Face Transformers, LangChain, RAG patterns, Whisper, Diffusers
+- LLMs & Multimodal: Hugging Face Transformers, LangChain, RAG patterns, Whisper, Diffusers, SDXL
 - Data & Infra: PostgreSQL, MongoDB, Redis, Spark, Airflow
 - Serving & Infra: FastAPI, Docker, Kubernetes, GCP, Azure
 - MLOps & Observability: MLflow, Weights & Biases, Prometheus, Grafana
