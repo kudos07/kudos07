@@ -15,6 +15,13 @@ I build polished, production-minded AI/ML demos and infra — fast prototypes th
 <a href="mailto:ssurana818@gmail.com"><b>Email</b></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expertish-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Ship%20Fast-111111?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Deploy-111111?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 ---
 
 ## About Me
@@ -65,18 +72,17 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 | 🤗 Transformers | 📚 Vector Search | ⚡ FastAPI | 🔄 MLflow | 📈 Prometheus |
 | 🧠 PyTorch | 🧰 Reranking | 🐳 Docker | 📊 W&B | 📉 Grafana |
 
-## Featured Projects
-
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **[portfolio-website](https://github.com/kudos07/portfolio-website)** | Personal portfolio site. | TypeScript |
-| **[ML-Experimentation-Hub](https://github.com/kudos07/ML-Experimentation-Hub)** | ML experimentation hub project. | TypeScript |
-| **[ML-Experimentation-Hub-Qlora](https://github.com/kudos07/ML-Experimentation-Hub-Qlora)** | QLoRA-focused experimentation hub variant. | TypeScript |
-| **[EchoFrames](https://github.com/kudos07/EchoFrames)** | Project repo. | JavaScript |
-| **[MentalHealth-Chatbot](https://github.com/kudos07/MentalHealth-Chatbot)** | Mental health chatbot project. | Python |
-| **[IDS-2018-Intrusion-CSVs-CSE-CIC-IDS2018--Anomaly-Detection](https://github.com/kudos07/IDS-2018-Intrusion-CSVs-CSE-CIC-IDS2018--Anomaly-Detection)** | Anomaly detection work on IDS 2018 dataset. | Jupyter Notebook |
-
 ---
+
+<details>
+<summary><b>Now</b> (what I'm optimizing for)</summary>
+<br/>
+
+- **Latency**: model+system performance you can feel
+- **DX**: APIs and repos that other engineers actually enjoy using
+- **Reliability**: reproducible runs, tests on contracts, monitoring by default
+
+</details>
 
 ## Open Source
 
@@ -95,24 +101,3 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 - **statsmodels/statsmodels**: [ENH: Add rotated copula CDF helper (`_rotate_cdf`) and tests (#9681)](https://github.com/statsmodels/statsmodels/pull/9681)
 - **dottxt-ai/outlines**: [Add parametrized steerable model tests (Transformers backend) (#1774)](https://github.com/dottxt-ai/outlines/pull/1774)
 - **skrub-data/skrub**: [FEA: Add select_list selector and is_list dispatch for list-like columns (#1690)](https://github.com/skrub-data/skrub/pull/1690)
-
-## Let's Connect
-
-I’m open to AI/ML engineering roles, ML infra work, and collaborations on demos/tooling.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saransh-surana"><b>LinkedIn</b></a> •
-  <a href="https://saransh-surana.vercel.app"><b>Portfolio</b></a> •
-  <a href="mailto:ssurana818@gmail.com"><b>Email</b></a>
-</p>
-
----
-
-### Want me to make it “complete” like that profile?
-
-Send:
-- 3–6 repo links you want featured
-- 1–2 lines: what role(s) you’re targeting
-- whether you want your email visible or not
-
-
