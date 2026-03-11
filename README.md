@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Saransh </h1>
+<h1 align="center">Hi, I'm Saransh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Production-minded+Prototyping;ML+Infra+%26+MLOps" alt="Typing SVG" />
@@ -17,7 +17,7 @@ I build polished, production-minded AI/ML demos and infra — fast prototypes th
 
 ---
 
-## 🌸 About Me
+## About Me
 
 Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from data + training to serving, monitoring, and clean developer experience.
 
@@ -30,13 +30,13 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 
 ---
 
-## 🧠 Areas of Interest
+## Areas of Interest
 
 <code>🤖 LLM Applications</code> <code>🔗 RAG Systems</code> <code>⚙️ ML Infrastructure</code> <code>🧪 Evaluation</code> <code>📊 Vector Search</code> <code>🧰 Tooling</code> <code>📈 Observability</code> <code>☁️ Cloud</code>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### 💻 Languages
 - Python, TypeScript, SQL
@@ -67,7 +67,7 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <i>Add your preferred cards here (stats, streak, top-langs). If you want, tell me your GitHub username and which cards you like.</i>
@@ -75,7 +75,7 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <p>
 <i>Share 3–6 repos you want highlighted and I’ll fill this in with accurate descriptions + tech.</i>
@@ -89,7 +89,7 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 
 ---
 
-## 💌 Let's Connect
+## Let's Connect
 
 I’m open to AI/ML engineering roles, ML infra work, and collaborations on demos/tooling.
 
