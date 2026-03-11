@@ -65,29 +65,36 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 | 🤗 Transformers | 📚 Vector Search | ⚡ FastAPI | 🔄 MLflow | 📈 Prometheus |
 | 🧠 PyTorch | 🧰 Reranking | 🐳 Docker | 📊 W&B | 📉 Grafana |
 
----
-
-## GitHub Analytics
-
-<p align="center">
-  <i>Add your preferred cards here (stats, streak, top-langs). If you want, tell me your GitHub username and which cards you like.</i>
-</p>
-
----
-
 ## Featured Projects
-
-<p>
-<i>Share 3–6 repos you want highlighted and I’ll fill this in with accurate descriptions + tech.</i>
-</p>
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| **Project 1** | One-liner on impact (RAG app / multimodal demo / infra template). | Python, FastAPI, Docker |
-| **Project 2** | One-liner on what it enables (evals / monitoring / pipelines). | PyTorch, MLflow, Grafana |
-| **Project 3** | One-liner on why it’s interesting (latency / scale / DX). | TypeScript, APIs, Cloud |
+| **[portfolio-website](https://github.com/kudos07/portfolio-website)** | Personal portfolio site. | TypeScript |
+| **[ML-Experimentation-Hub](https://github.com/kudos07/ML-Experimentation-Hub)** | ML experimentation hub project. | TypeScript |
+| **[ML-Experimentation-Hub-Qlora](https://github.com/kudos07/ML-Experimentation-Hub-Qlora)** | QLoRA-focused experimentation hub variant. | TypeScript |
+| **[EchoFrames](https://github.com/kudos07/EchoFrames)** | Project repo. | JavaScript |
+| **[MentalHealth-Chatbot](https://github.com/kudos07/MentalHealth-Chatbot)** | Mental health chatbot project. | Python |
+| **[IDS-2018-Intrusion-CSVs-CSE-CIC-IDS2018--Anomaly-Detection](https://github.com/kudos07/IDS-2018-Intrusion-CSVs-CSE-CIC-IDS2018--Anomaly-Detection)** | Anomaly detection work on IDS 2018 dataset. | Jupyter Notebook |
 
 ---
+
+## Open Source
+
+### Issues
+- **dottxt-ai/outlines**: [Tokenizer breaks when HuggingFace removes or moves `SPIECE_UNDERLINE` from `transformers.file_utils` (#1829)](https://github.com/dottxt-ai/outlines/issues/1829)
+- **dottxt-ai/outlines**: [LlamaCppTokenizer bugs: EOS token incorrectly masked as padding and fallback vocab truncation collisions (#1819)](https://github.com/dottxt-ai/outlines/issues/1819)
+
+### Pull Requests
+- **deepset-ai/haystack-core-integrations**: [feat(anthropic): add `SUPPORTED_MODELS` to `AnthropicVertexChatGenerator` (#2932)](https://github.com/deepset-ai/haystack-core-integrations/pull/2932)
+- **deepset-ai/haystack-core-integrations**: [Add Jina integration tests for text/document embedders and ranker (#2841)](https://github.com/deepset-ai/haystack-core-integrations/pull/2841)
+- **deepset-ai/haystack-core-integrations**: [feat: add `run_async` to `LlamaCppChatGenerator` (#2821)](https://github.com/deepset-ai/haystack-core-integrations/pull/2821)
+- **deepset-ai/haystack-core-integrations**: [fix(llama_stack): support llama-stack>=0.4.0 (#2805)](https://github.com/deepset-ai/haystack-core-integrations/pull/2805)
+- **deepset-ai/haystack-core-integrations**: [ci: Stop running tests for archived Google integrations (#2802)](https://github.com/deepset-ai/haystack-core-integrations/pull/2802)
+- **sczaction/housing**: [Add saransh folder (#1)](https://github.com/sczaction/housing/pull/1)
+- **dottxt-ai/outlines**: [Add parametrized Transformers smoke test for tokenizer robustness (#1814)](https://github.com/dottxt-ai/outlines/pull/1814)
+- **statsmodels/statsmodels**: [ENH: Add rotated copula CDF helper (`_rotate_cdf`) and tests (#9681)](https://github.com/statsmodels/statsmodels/pull/9681)
+- **dottxt-ai/outlines**: [Add parametrized steerable model tests (Transformers backend) (#1774)](https://github.com/dottxt-ai/outlines/pull/1774)
+- **skrub-data/skrub**: [FEA: Add select_list selector and is_list dispatch for list-like columns (#1690)](https://github.com/skrub-data/skrub/pull/1690)
 
 ## Let's Connect
 
