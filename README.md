@@ -2,18 +2,26 @@
 
 <h1>Hi, I'm Saransh</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=AI%2FML+Engineer+%7C+Infra+Nerd;Production-minded+Prototypes+%26+MLOps;Anime+arc%3A+\"shipping+this+README\"" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=AI%2FML+Engineer+%7C+Infra+Nerd;Production-minded+Prototypes+%26+MLOps;Anime+arc%3A+shipping+this+README" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-surana)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:ssurana818@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/kudos07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white)](https://saransh-surana.vercel.app)
+<a href="https://www.linkedin.com/in/saransh-surana">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ssurana818@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/kudos07">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://saransh-surana.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" />
+</a>
 
 <br/>
 
-![Now Playing](https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=flat-square&logo=spotify&logoColor=1DB954)
+<img src="https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=flat-square&logo=spotify&logoColor=1DB954" />
 
 </div>
 
@@ -117,6 +125,26 @@ coffee_powered: true
 - **statsmodels/statsmodels**: [ENH: Add rotated copula CDF helper (`_rotate_cdf`) and tests (#9681)](https://github.com/statsmodels/statsmodels/pull/9681)
 - **dottxt-ai/outlines**: [Add parametrized steerable model tests (Transformers backend) (#1774)](https://github.com/dottxt-ai/outlines/pull/1774)
 - **skrub-data/skrub**: [FEA: Add select_list selector and is_list dispatch for list-like columns (#1690)](https://github.com/skrub-data/skrub/pull/1690)
+
+---
+
+## Contribution Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kudos07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14&include_all_commits=true&count_private=true" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kudos07&theme=tokyonight&border_radius=14" height="180" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudos07&layout=donut&theme=tokyonight&hide_border=false&border_radius=14&langs_count=8" height="200" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kudos07&theme=tokyo-night&hide_border=false" width="95%" />
+
+</div>
 
 ---
 
