@@ -128,11 +128,9 @@ coffee_powered: true
 - **deepset-ai/haystack-core-integrations**: [feat: add `run_async` to `LlamaCppChatGenerator` (#2821)](https://github.com/deepset-ai/haystack-core-integrations/pull/2821)
 - **deepset-ai/haystack-core-integrations**: [fix(llama_stack): support llama-stack>=0.4.0 (#2805)](https://github.com/deepset-ai/haystack-core-integrations/pull/2805)
 - **deepset-ai/haystack-core-integrations**: [ci: Stop running tests for archived Google integrations (#2802)](https://github.com/deepset-ai/haystack-core-integrations/pull/2802)
-- **sczaction/housing**: [Add saransh folder (#1)](https://github.com/sczaction/housing/pull/1)
 - **dottxt-ai/outlines**: [Add parametrized Transformers smoke test for tokenizer robustness (#1814)](https://github.com/dottxt-ai/outlines/pull/1814)
 - **statsmodels/statsmodels**: [ENH: Add rotated copula CDF helper (`_rotate_cdf`) and tests (#9681)](https://github.com/statsmodels/statsmodels/pull/9681)
 - **dottxt-ai/outlines**: [Add parametrized steerable model tests (Transformers backend) (#1774)](https://github.com/dottxt-ai/outlines/pull/1774)
-- **skrub-data/skrub**: [FEA: Add select_list selector and is_list dispatch for list-like columns (#1690)](https://github.com/skrub-data/skrub/pull/1690)
 
 ---
 
