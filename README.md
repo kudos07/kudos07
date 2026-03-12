@@ -29,7 +29,7 @@
 
 ## About Me
 
-<img align="right" src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-boy.gif" width="220"/>
+<img align="right" src="https://media.tenor.com/Is0hX3dYpS4AAAAC/itachi-sharingan.gif" width="220"/>
 
 Hey, I'm **Saransh** — I like shipping end-to-end ML systems: from data and training to serving, monitoring, and a clean dev experience for other engineers.
 
