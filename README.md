@@ -75,18 +75,24 @@ coffee_powered: true
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 <br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Whisper-111111?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Diffusers-111111?style=flat-square&logoColor=white" />
 
 <br/><br/>
 
 ### 🗄️ Data & Infra
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis&theme=dark" />
 <br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=spark&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=spark,airflow&theme=dark" />
 
 <br/><br/>
 
 ### ☁️ Cloud & DevOps
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,gcp,azure,github&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,gcp,azure,github,git&theme=dark" />
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" />
 
 <br/><br/>
 
@@ -94,6 +100,8 @@ coffee_powered: true
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark" />
 <br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-111111?style=flat-square&logoColor=white" />
 
 </div>
 
