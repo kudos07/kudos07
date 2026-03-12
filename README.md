@@ -1,88 +1,104 @@
-<h1 align="center">Hi, I'm Saransh</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Production-minded+Prototyping;ML+Infra+%26+MLOps" alt="Typing SVG" />
-</p>
+<h1>Hi, I'm Saransh</h1>
 
-<p align="center">
-I build polished, production-minded AI/ML demos and infra — fast prototypes that scale, reproducible pipelines, and readable code that teams actually use.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00D8FF&center=true&vCenter=true&multiline=true&repeat=true&width=520&height=70&lines=AI%2FML+Engineer+%7C+Infra+Nerd;Production-minded+Prototypes+%26+MLOps;Anime+arc%3A+\"shipping+this+README\"" />
 
-<p align="center">
-<a href="https://saransh-surana.vercel.app"><b>Portfolio</b></a> •
-<a href="https://www.linkedin.com/in/saransh-surana"><b>LinkedIn</b></a> •
-<a href="https://github.com/kudos07"><b>GitHub</b></a> •
-<a href="mailto:ssurana818@gmail.com"><b>Email</b></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expertish-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Ship%20Fast-111111?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Deploy-111111?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saransh-surana)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:ssurana818@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/kudos07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white)](https://saransh-surana.vercel.app)
+
+<br/>
+
+![Now Playing](https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=flat-square&logo=spotify&logoColor=1DB954)
+
+</div>
 
 ---
 
 ## About Me
 
-Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from data + training to serving, monitoring, and clean developer experience.
+<img align="right" src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-boy.gif" width="220"/>
 
-<p>
-👩‍💻 <b>focus</b>: AI Engineering, LLM apps, ML infrastructure<br/>
-🔬 <b>building</b>: fast demos that scale, reliable APIs, reproducible experiments<br/>
-🌱 <b>exploring</b>: RAG, evals, caching/reranking, observability for LLM systems<br/>
-☕ <b>fun_fact</b>: I optimize for latency and ergonomics (and coffee helps)
-</p>
+Hey, I'm **Saransh** — I like shipping end-to-end ML systems: from data and training to serving, monitoring, and a clean dev experience for other engineers.
+
+I care about **practical AI**: low-friction APIs, sane infra, and experiments you can actually rerun in 3 months without crying.
+
+```yaml
+name: Saransh Surana
+role: AI / ML Engineer
+mode: "shipping small, iterating fast"
+focus:
+  - LLM applications
+  - ML infrastructure & MLOps
+  - retrieval & evals
+currently_watching: "whatever anime arc matches my bug count"
+coffee_powered: true
+```
+
+<br clear="right"/>
 
 ---
 
 ## Areas of Interest
 
-<code>🤖 LLM Applications</code> <code>🔗 RAG Systems</code> <code>⚙️ ML Infrastructure</code> <code>🧪 Evaluation</code> <code>📊 Vector Search</code> <code>🧰 Tooling</code> <code>📈 Observability</code> <code>☁️ Cloud</code>
+<div align="center">
+
+`🤖 LLM Applications` `🔗 RAG Systems` `⚙️ ML Infrastructure` `🧪 Evaluation`
+`📊 Vector Search` `🧰 Tooling` `📈 Observability` `☁️ Cloud`
+
+</div>
 
 ---
 
 ## Tech Stack & Tools
 
+<div align="center">
+
 ### 💻 Languages
-- Python, TypeScript, SQL
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,sql&theme=dark" />
+
+<br/><br/>
 
 ### 🤖 AI & Machine Learning
-- PyTorch, TensorFlow, scikit-learn, XGBoost
-- Hugging Face Transformers, LangChain
-- Whisper, Diffusers
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface&theme=dark" />
+
+<br/><br/>
 
 ### 🗄️ Data & Infra
-- PostgreSQL, MongoDB, Redis
-- Spark, Airflow
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis&theme=dark" />
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=spark&theme=dark" />
+
+<br/><br/>
 
 ### ☁️ Cloud & DevOps
-- Docker, Kubernetes
-- GCP, Azure
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,gcp,azure,github&theme=dark" />
 
-### 🧪 MLOps & Observability
-- MLflow, Weights & Biases
-- Prometheus, Grafana
+<br/><br/>
 
-### 🧪 AI Engineering Stack
+### 🔧 MLOps & Observability
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark" />
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&theme=dark" />
 
-| 🧠 Modeling | 🔗 RAG | 📦 Serving | 📊 Tracking | 🔭 Observability |
-| --- | --- | --- | --- | --- |
-| 🤗 Transformers | 📚 Vector Search | ⚡ FastAPI | 🔄 MLflow | 📈 Prometheus |
-| 🧠 PyTorch | 🧰 Reranking | 🐳 Docker | 📊 W&B | 📉 Grafana |
+</div>
 
 ---
 
-<details>
-<summary><b>Now</b> (what I'm optimizing for)</summary>
-<br/>
+## AI Engineering Stack (Lite)
 
-- **Latency**: model+system performance you can feel
-- **DX**: APIs and repos that other engineers actually enjoy using
-- **Reliability**: reproducible runs, tests on contracts, monitoring by default
+| Modeling                | Retrieval / RAG      | Serving  | Tracking | Observability |
+|------------------------|----------------------|---------|----------|---------------|
+| PyTorch, TensorFlow    | Vector search        | FastAPI | MLflow   | Prometheus    |
+| Transformers, LangChain| Reranking, caching   | Docker  | W&B      | Grafana       |
 
-</details>
+---
 
 ## Open Source
 
@@ -101,3 +117,16 @@ Hey there! I'm <b>Saransh</b> — I like shipping end-to-end ML systems: from da
 - **statsmodels/statsmodels**: [ENH: Add rotated copula CDF helper (`_rotate_cdf`) and tests (#9681)](https://github.com/statsmodels/statsmodels/pull/9681)
 - **dottxt-ai/outlines**: [Add parametrized steerable model tests (Transformers backend) (#1774)](https://github.com/dottxt-ai/outlines/pull/1774)
 - **skrub-data/skrub**: [FEA: Add select_list selector and is_list dispatch for list-like columns (#1690)](https://github.com/skrub-data/skrub/pull/1690)
+
+---
+
+## Anime & Coding Vibes
+
+<div align="center">
+
+> "Shipping prod code is just a long-running shonen arc, except the villain is flaky tests."
+
+`⏳ Late-night refactors` `🧠 Overthinking architectures` `🔥 Fixing one bug, discovering three`
+
+</div>
+
