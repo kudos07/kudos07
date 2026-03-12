@@ -132,7 +132,7 @@ coffee_powered: true
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kudos07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=kudos07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14" height="180" />
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kudos07&theme=tokyonight&border_radius=14" height="180" />
 
