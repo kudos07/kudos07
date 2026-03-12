@@ -152,9 +152,14 @@ coffee_powered: true
 
 <div align="center">
 
-> "Shipping prod code is just a long-running shonen arc, except the villain is flaky tests."
+<img src="https://media.tenor.com/Is0hX3dYpS4AAAAC/itachi-sharingan.gif" width="220" />
+<img src="https://media.tenor.com/p8vHTQfMVWoAAAAC/one-piece-luffy.gif" width="220" />
 
-`⏳ Late-night refactors` `🧠 Overthinking architectures` `🔥 Fixing one bug, discovering three`
+<br/><br/>
+
+> "Shipping prod code is just a long-running shonen arc — some days I'm Itachi, other days I'm Luffy punching bugs until they submit."
+
+`⏳ Late-night refactors` `🧠 Sharingan-level code reviews` `🔥 Gear 5 focus sessions`
 
 </div>
 
