@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=flat-square&logo=spotify&logoColor=1DB954" />
+<!-- <img src="https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=flat-square&logo=spotify&logoColor=1DB954" /> -->
 
 </div>
 
