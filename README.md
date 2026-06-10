@@ -21,8 +21,8 @@
 
 <br/><br/>
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn">
-  <img src="https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Now Playing" />
+<a href="https://open.spotify.com/track/7k65xsOjTqONQhfpVWYAWG">
+  <img src="https://img.shields.io/badge/NOW%20PLAYING-Dealer%20-%20Diljit%20Dosanjh-111111?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Now Playing: Dealer by Diljit Dosanjh" />
 </a>
 
 </div>
