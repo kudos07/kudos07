@@ -7,21 +7,23 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/saransh-surana">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:ssurana818@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/kudos07">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://saransh-surana.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/>
 
-<!-- <img src="https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=flat-square&logo=spotify&logoColor=1DB954" /> -->
+<a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn">
+  <img src="https://img.shields.io/badge/NOW%20PLAYING-lofi%20beats%20to%20ship%20ML-111111?style=flat-square&logo=spotify&logoColor=1DB954" alt="Now Playing" />
+</a>
 
 </div>
 
@@ -29,7 +31,7 @@
 
 ## About Me
 
-<img align="right" src="https://media.tenor.com/Is0hX3dYpS4AAAAC/itachi-sharingan.gif" width="220"/>
+<img align="right" src="https://media.tenor.com/Is0hX3dYpS4AAAAC/itachi-sharingan.gif" width="220" alt="Itachi Sharingan" />
 
 Hey, I'm **Saransh** — I like shipping end-to-end ML systems: from data and training to serving, monitoring, and a clean dev experience for other engineers.
 
@@ -53,66 +55,62 @@ coffee_powered: true
 
 ## Areas of Interest
 
-<div align="center">
-
-`🤖 LLM Applications` `🔗 RAG Systems` `⚙️ ML Infrastructure` `🧪 Evaluation`
-`📊 Vector Search` `🧰 Tooling` `📈 Observability` `☁️ Cloud`
-
-</div>
+<p align="center">
+  <code>🤖 LLM Applications</code> <code>🔗 RAG Systems</code> <code>⚙️ ML Infrastructure</code> <code>🧪 Evaluation</code>
+  <code>📊 Vector Search</code> <code>🧰 Tooling</code> <code>📈 Observability</code> <code>☁️ Cloud</code>
+</p>
 
 ---
 
 ## Tech Stack & Tools
 
-<div align="center">
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,sql&theme=dark" alt="Languages" />
+</p>
 
-### 💻 Languages
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,javascript,sql&theme=dark" />
+<h3 align="center">🤖 AI & Machine Learning</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML frameworks" />
+  <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface&theme=dark" alt="AI tooling" />
+  <br/>
+  <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Whisper-111111?style=flat-square&logoColor=white" alt="Whisper" />
+  <img src="https://img.shields.io/badge/Diffusers-111111?style=flat-square&logoColor=white" alt="Diffusers" />
+</p>
 
-<br/><br/>
+<h3 align="center">🗄️ Data & Infra</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis&theme=dark" alt="Databases" />
+  <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=spark,airflow&theme=dark" alt="Data pipelines" />
+</p>
 
-### 🤖 AI & Machine Learning
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Whisper-111111?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Diffusers-111111?style=flat-square&logoColor=white" />
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,gcp,azure,github,git&theme=dark" alt="Cloud and DevOps" />
+  <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" alt="FastAPI" />
+</p>
 
-<br/><br/>
-
-### 🗄️ Data & Infra
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,redis&theme=dark" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=spark,airflow&theme=dark" />
-
-<br/><br/>
-
-### ☁️ Cloud & DevOps
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,gcp,azure,github,git&theme=dark" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" />
-
-<br/><br/>
-
-### 🔧 MLOps & Observability
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark" />
-<br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Weights%20%26%20Biases-111111?style=flat-square&logoColor=white" />
-
-</div>
+<h3 align="center">🔧 MLOps & Observability</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark" alt="MLflow" />
+  <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana&theme=dark" alt="Observability" />
+  <br/>
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-111111?style=flat-square&logoColor=white" alt="Weights & Biases" />
+</p>
 
 ---
 
 ## AI Engineering Stack (Lite)
 
-| Modeling                | Retrieval / RAG      | Serving  | Tracking | Observability |
-|------------------------|----------------------|---------|----------|---------------|
-| PyTorch, TensorFlow    | Vector search        | FastAPI | MLflow   | Prometheus    |
-| Transformers, LangChain| Reranking, caching   | Docker  | W&B      | Grafana       |
+| Modeling                 | Retrieval / RAG       | Serving  | Tracking | Observability |
+| ------------------------ | --------------------- | -------- | -------- | ------------- |
+| PyTorch, TensorFlow      | Vector search         | FastAPI  | MLflow   | Prometheus    |
+| Transformers, LangChain  | Reranking, caching    | Docker   | W&B      | Grafana       |
 
 ---
 
@@ -136,36 +134,31 @@ coffee_powered: true
 
 ## Contribution Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kudos07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14&hide=contribs" height="180" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=kudos07&theme=tokyonight&border_radius=14" height="180" alt="GitHub streak" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kudos07&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kudos07&theme=tokyonight&border_radius=14" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudos07&layout=donut&theme=tokyonight&hide_border=false&border_radius=14&langs_count=8" height="200" alt="Top languages" />
+</p>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudos07&layout=donut&theme=tokyonight&hide_border=false&border_radius=14&langs_count=8" height="200" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kudos07&theme=tokyo-night&hide_border=false" width="95%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kudos07&theme=tokyo-night&hide_border=false" width="95%" alt="Contribution graph" />
+</p>
 
 ---
 
 ## Anime & Coding Vibes
 
-<div align="center">
-
-<img src="https://media.tenor.com/Is0hX3dYpS4AAAAC/itachi-sharingan.gif" width="220" />
-<img src="https://media.tenor.com/p8vHTQfMVWoAAAAC/one-piece-luffy.gif" width="220" />
-
-<br/><br/>
+<p align="center">
+  <img src="https://media.tenor.com/Is0hX3dYpS4AAAAC/itachi-sharingan.gif" width="220" alt="Itachi Sharingan" />
+  <img src="https://media.tenor.com/p8vHTQfMVWoAAAAC/one-piece-luffy.gif" width="220" alt="Monkey D. Luffy" />
+</p>
 
 > "Shipping prod code is just a long-running shonen arc — some days I'm Itachi, other days I'm Luffy punching bugs until they submit."
 
-`⏳ Late-night refactors` `🧠 Sharingan-level code reviews` `🔥 Gear 5 focus sessions`
-
-</div>
-
+<p align="center">
+  <code>⏳ Late-night refactors</code> <code>🧠 Sharingan-level code reviews</code> <code>🔥 Gear 5 focus sessions</code>
+</p>
