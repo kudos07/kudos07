@@ -33,7 +33,7 @@
 
 <img align="right" src="https://media.tenor.com/Is0hX3dYpS4AAAAC/itachi-sharingan.gif" width="220" alt="Itachi Sharingan" />
 
-Hey, I'm **Saransh** — I like shipping end-to-end ML systems: from data and training to serving, monitoring, and a clean dev experience for other engineers.
+Hey, I'm **Saransh**. I like shipping end-to-end ML systems: from data and training to serving, monitoring, and a clean dev experience for other engineers.
 
 I care about **practical AI**: low-friction APIs, sane infra, and experiments you can actually rerun in 3 months without crying.
 
@@ -157,7 +157,7 @@ coffee_powered: true
   <img src="https://media.tenor.com/p8vHTQfMVWoAAAAC/one-piece-luffy.gif" width="220" alt="Monkey D. Luffy" />
 </p>
 
-> "Shipping prod code is just a long-running shonen arc — some days I'm Itachi, other days I'm Luffy punching bugs until they submit."
+> "Shipping prod code is just a long-running shonen arc. Some days I'm Itachi, other days I'm Luffy punching bugs until they submit."
 
 <p align="center">
   <code>⏳ Late-night refactors</code> <code>🧠 Sharingan-level code reviews</code> <code>🔥 Gear 5 focus sessions</code>
