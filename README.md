@@ -99,10 +99,6 @@ vibe: ship small, iterate fast
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudos07&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=6" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kudos07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="92%" alt="Contribution graph" />
 </p>
 
